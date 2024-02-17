@@ -1,0 +1,26 @@
+{
+  "name": "react-deep-knowledge",
+  "version": "1.0.0",
+  "description": "This is for getting deeper knowledge with multiple app creation practice",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rakeshtrimbake/react-deep-knowledge.git"
+  },
+  "author": "Rakesh Trimbake",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rakeshtrimbake/react-deep-knowledge/issues"
+  },
+  "homepage": "https://github.com/rakeshtrimbake/react-deep-knowledge#readme",
+  "devDependencies": {
+    "parcel": "^2.11.0",
+    "process": "^0.11.10"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
